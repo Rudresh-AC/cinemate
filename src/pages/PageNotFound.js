@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import PageNotFoundImage from "../assets/images/pagenotfound.png";
 import { useEffect } from "react";
-import Spinner from "../components/Spinner";
 
 export const PageNotFound = () => {
   useEffect(() => {
